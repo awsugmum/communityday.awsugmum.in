@@ -1778,16 +1778,16 @@ div#myModal .modal-body {
   }
 }
 /* line 864, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Parthasarathi"] .img {
-  background-image: url(../images/vols/partha.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Sanchit"] .img {
+  background-image: url("https://mine-bio-sanchit.s3.ap-south-1.amazonaws.com/image2.png");
 }
 /* line 867, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Swaminathan"] .img {
-  background-image: url(../images/vols/swami.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Gaurav"] .img {
+  background-image: url(../images/speakers/gaurav.jpg);
 }
 /* line 873, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ragunathan"] .img {
-  background-image: url(../images/vols/ragunathan.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Sukanya"] .img {
+  background-image: url("https://pbs.twimg.com/profile_images/1288917497043795969/LVHBB4S9_400x400.jpg");
 }
 /* line 897, ../sass/shared/_home.scss */
 #page .section-6 .volunteers .vl-i .person[data-fname="Ilanchezhian"] .img {
