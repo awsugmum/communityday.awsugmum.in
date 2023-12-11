@@ -1779,54 +1779,13 @@ div#myModal .modal-body {
 }
 /* line 864, ../sass/shared/_home.scss */
 #page .section-6 .volunteers .vl-i .person[data-fname="Sanchit"] .img {
-  background-image: url("https://mine-bio-sanchit.s3.ap-south-1.amazonaws.com/image2.png");
+  background-image: url(../images/vols/sanchit_jain.jpg);
 }
 /* line 867, ../sass/shared/_home.scss */
 #page .section-6 .volunteers .vl-i .person[data-fname="Gaurav"] .img {
-  background-image: url(../images/speakers/gaurav.jpg);
+  background-image: url(../images/vols/gaurav.jpg);
 }
-/* line 873, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Sukanya"] .img {
-  background-image: url("https://pbs.twimg.com/profile_images/1288917497043795969/LVHBB4S9_400x400.jpg");
-}
-/* line 897, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ilanchezhian"] .img {
-  background-image: url(../images/vols/ilan.jpg);
-}
-/* line 885, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Hari"] .img {
-  background-image: url(../images/vols/hari.jpg);
-}
-/* line 888, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ganesh"] .img {
-  background-image: url(../images/vols/ganesh.jpg);
-}
-/* line 891, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Muthukumar"] .img {
-  background-image: url(../images/vols/muthukumar.jpg);
-}
-/* line 894, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ramya"] .img {
-  background-image: url(../images/vols/ramya.jpg);
-}
-/* line 897, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Sridevi"] .img {
-  background-image: url(../images/vols/sridevi.jpg);
-}
-/* line 912, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Mohan"] .img {
-  background-image: url(../images/vols/mohan.jpg);
-}
-/* line 912, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Suthan"] .img {
-  background-image: url(../images/vols/suthan.jpg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Mageshwaran"] .img {
-  background-image: url(../images/vols/magesh.jpg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Praveen"] .img {
-  background-image: url(../images/vols/praveen.jpg);
-}
+
 /* line 919, ../sass/shared/_home.scss */
 #page .section-7 {
   margin: -50px auto 100px;
